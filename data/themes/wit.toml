@@ -5,14 +5,14 @@ name = "wit"
 light = true
 
 # Primary
-primary = "#739CE1"
+primary = "#759194"
 primary_light = "#A4CFBE"
 primary_dark = "#6C6E58"
 
 # Menu
 menu_primary = "#fff"
 menu_text = "#34495e"
-menu_text_active = "#739CE1"
+menu_text_active = "#759194"
 menu_title = "#3E423A"
 
 # Home sections
