@@ -67,6 +67,5 @@ user_groups:
 - Visitors
 ---
 
-Francisco Wilhelm is a doctoral researcher in the Department for Work and Organizational Psychology at the University of Bern, Switzerland. His research interests include career development and career counseling, with a focus on applying theories of motivation and self-regulation. Besides this, he develops packages for the statistical software R.
 
 
