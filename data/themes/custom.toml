@@ -10,9 +10,9 @@ primary = "rgb(255, 255, 255)"
 # Menu
 menu_primary = "rgb(255, 255, 255)"
 menu_text = "#000"
-menu_text_active = "rgb(255, 255, 255)"
+menu_text_active = "rgb(236, 212, 207)"
 menu_title = "#000"
 
 # Home sections
 home_section_odd = "#FFF"
-home_section_even = "rgb(30, 100, 200)"
+home_section_even = "rgb(255, 255, 255)"
