@@ -1,5 +1,5 @@
 ---
-title: "How to foster nurses’ well-being and performance in the face of work pressure? The role of mindfulness as personal resource [In Press]"
+title: "How to foster nurses’ well-being and performance in the face of work pressure? The role of mindfulness as personal resource"
 date: 2020-08-07
 publishDate: 2020-08-14T23:42+01:00
 authors: ["Elias Janssen", "Isabeau van Strydonck", "Mieke Audenaert", "Anouk Decuypere", "Adelien Decramer"]
