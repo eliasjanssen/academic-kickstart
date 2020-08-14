@@ -97,7 +97,7 @@ address = {street = "Tweekerkenstraat 2", city = "Ghent", region = "", postcode 
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [https://telefoonboek.ugent.be/nl/people/802003374626]
+contact_links = ["https://telefoonboek.ugent.be/nl/people/802003374626"]
 
 ############################
 ## Social
