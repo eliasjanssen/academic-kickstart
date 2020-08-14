@@ -4,7 +4,7 @@ date: 2020-08-07
 publishDate: 2020-08-14T23:42+01:00
 authors: ["Elias Janssen", "Isabeau van Strydonck", "Mieke Audenaert", "Anouk Decuypere", "Adelien Decramer"]
 publication_types: ["2"]
-abstract: """**Aim:** To study the simultaneous relationships of work pressure with the performance and well-being of
+abstract: "**Aim:** To study the simultaneous relationships of work pressure with the performance and well-being of
 nurses, and to explore whether mindfulness moderates these relationships.
 
 **Design:** A cross-sectional survey design.
@@ -32,7 +32,7 @@ of increasing work pressure.
 
 **Impact:** Nurses are confronted with increasing work pressure. The present findings indicate that the
 implementation of mindfulness strategies can be beneficial for nurses dealing with work pressure,
-contributing to nursing practice and JD-R theory"""
+contributing to nursing practice and JD-R theory"
 featured: false
 publication: "*Journal of Advanced Nursing [In Press]*"
 tags: ["Mindfulness", "JD-R", "Nursing"]
