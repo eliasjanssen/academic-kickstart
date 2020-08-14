@@ -26,10 +26,9 @@ interests:
 
 education:
   courses:
-  - course: MSc in Business Administration
-    specialization: Organizational Design & Development
+  - course: MSc in Business Administration - Organizational Design & Development
     institution: Radboud University
-    year: 2009
+    year: 2019
   - course: BSc in Business Administration
     institution: Radboud University
     year: 2018
