@@ -5,7 +5,7 @@ name = "wit"
 light = true
 
 # Primary
-primary = "#a0b3b5"
+primary = "#a0a9b5"
 primary_light = "#A4CFBE"
 primary_dark = "#6C6E58"
 
