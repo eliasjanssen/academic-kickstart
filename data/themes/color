@@ -1,18 +1,18 @@
 # Theme metadata
-name = "wit"
+name = "color"
 
 # Is theme light or dark?
 light = true
 
 # Primary
-primary = "#a0a9b5"
+primary = "#C57B57"
 primary_light = "#A4CFBE"
 primary_dark = "#6C6E58"
 
 # Menu
 menu_primary = "#fff"
-menu_text = "#34495e"
-menu_text_active = "#52686a"
+menu_text = "#1E2D2F"
+menu_text_active = "#041F1E"
 menu_title = "#3E423A"
 
 # Home sections
