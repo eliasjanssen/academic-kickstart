@@ -67,5 +67,10 @@ user_groups:
 - Visitors
 ---
 
-Elias Janssen is a Doctoral Researcher at the Department of Marketing, Innovation & Organization of Ghent University, Belgium. His doctoral research project revolves around sustainable careers in the educational sector. 
+Elias Janssen is a Doctoral Researcher at the Department of Marketing, Innovation & Organization of Ghent University, Belgium. His doctoral research will revolve around sustainable careers in the educational sector.
+
+
+
+
+
 
