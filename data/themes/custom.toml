@@ -5,7 +5,7 @@ name = "Custom"
 light = true
 
 # Primary
-primary = "rgb(255, 255, 255)"
+primary = "rgb(255, 255, 242)"
 
 # Menu
 menu_primary = "rgb(255, 255, 255)"
@@ -15,4 +15,4 @@ menu_title = "#000"
 
 # Home sections
 home_section_odd = "#FFF"
-home_section_even = "rgb(102, 157, 179)"
+home_section_even = "rgb(255, 255, 242)"
