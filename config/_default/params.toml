@@ -13,7 +13,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "wit"
+theme = "Custom"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -26,7 +26,7 @@ font = "Custom"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "XL"
 
 ############################
 ## Basic Info
@@ -95,9 +95,23 @@ phone = ""
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 address = {street = "Tweekerkenstraat 2", city = "Ghent", region = "", postcode = "9000", country = "Belgium", country_code = "BE"}
 
+# Geographic coordinates
+# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
+coordinates = {}
+
+# Directions for visitors to locate you.
+directions = ""
+
+# Office hours
+# A list of your office hours. To remove, set to an empty list `[]`.
+office_hours = []
+
+# Enter an optional link for booking appointments (e.g. calendly.com).
+appointment_url = ""
+
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = ["https://telefoonboek.ugent.be/nl/people/802003374626"]
+contact_links = []
 
 ############################
 ## Social
@@ -275,4 +289,4 @@ plugins_js  = []
 ## Icon Pack Extensions
 ############################
 [icon.pack]
-  ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
+  ai = false  # Academicons icon pack https://jpswalsh.github.io/academicons/
