@@ -93,7 +93,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {name = "Ghent University - Faculty of Economics & Business Administration", research group = "Marketing, Innovation & Organisation", street = "Tweekerkenstraat 2", city = "Ghent", region = "", postcode = "9000", country = "Belgium", country_code = "BE"}
+address = {street = "Tweekerkenstraat 2", city = "Ghent", region = "", postcode = "9000", country = "Belgium", country_code = "BE"}
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -170,7 +170,7 @@ plugins_js  = []
 [address_formats]
   en-us = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ' ', '']}
   en-gb = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ', ', '']}
-  de = {order = ['name', 'research group', 'street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
+  de = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
   fr-fr = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
   zh = {order = ['postcode', 'region', 'city', 'street'], delimiters = [' ', ' ', ' ', '']}
 
