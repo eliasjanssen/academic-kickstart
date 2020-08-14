@@ -15,7 +15,7 @@ role: PhD Candidate HRM & OB
 # Organizations/Affiliations
 organizations:
 - name: Ghent University
-  url: "www.ugent.be"
+  url: "https://telefoonboek.ugent.be/nl/people/802003374626"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research currently revolves around sustainable careers and proactive work behaviors.
