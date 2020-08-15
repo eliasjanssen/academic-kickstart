@@ -1,8 +1,8 @@
 ---
 organizations:
   - name: Ghent University
-    image: {{< figure src="logoghent.png" title="" >}}
     url: https://telefoonboek.ugent.be/nl/people/802003374626
+  - {{< figure src="logoghent.png" title="" >}}
 superuser: true
 authors:
   - admin
