@@ -41,8 +41,8 @@ url_pdf: ""
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  placement: 1
+  placement: 2
   caption: 'Wiley'
-  focal_point: "Smart"
+  focal_point: "Center"
   preview_only: false
 ---
