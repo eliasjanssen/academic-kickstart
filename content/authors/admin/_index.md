@@ -2,6 +2,9 @@
 organizations:
   - name: Ghent University
     url: https://telefoonboek.ugent.be/nl/people/802003374626
+---
+{{< figure library="true" src="logoghent.jpg" title="Ghent University" >}}
+---
 superuser: true
 authors:
   - admin
@@ -44,6 +47,3 @@ user_groups:
   - Visitors
 ---
 I am a Doctoral Researcher at the Department of Marketing, Innovation & Organization of Ghent University, Belgium. My doctoral research revolves around sustainable careers in the educational sector and incorporates topics like employability, proactive career behaviors and contextual influences on career development.
-<img src="logoghent.png"
-     alt=""
-     style="float: center; margin-right: 10px;" />
