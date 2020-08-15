@@ -68,7 +68,7 @@ user_groups:
 - Visitors
 ---
 
-Elias Janssen is a Doctoral Researcher at the Department of Marketing, Innovation & Organization of Ghent University, Belgium. His doctoral research revolves around sustainable careers in the educational sector and incorporates topics like employability, proactive career behaviors and the interaction between human agency and the organizational context.
+Elias Janssen is a Doctoral Researcher at the Department of Marketing, Innovation & Organization of Ghent University, Belgium. His doctoral research revolves around sustainable careers in the educational sector and incorporates topics like employability, proactive career behaviors and contextual influences on career development.
 
 
 
