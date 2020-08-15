@@ -44,5 +44,5 @@ image:
   placement: 2
   caption: 'Wiley'
   focal_point: "Center"
-  preview_only: false
+  preview_only: true
 ---
