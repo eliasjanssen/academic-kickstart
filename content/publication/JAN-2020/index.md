@@ -2,7 +2,15 @@
 title: "How to foster nurses’ well-being and performance in the face of work pressure? The role of mindfulness as personal resource"
 date: 2020-08-07
 publishDate: 2020-08-14T23:42+01:00
-authors: ["E. Janssen", "I. van Strydonck", "M. Audenaert", "A. Decuypere", "A. Decramer"]
+authors: 
+- admin
+- Isabeau van Strydonck
+- Mieke Audenaert
+- Anouk Decuypere
+- Adelien Decramer 
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 publication_types: ["2"]
 abstract: "* **Aim:** To study the simultaneous relationships of work pressure with the performance and well-being of
 nurses, and to explore whether mindfulness moderates these relationships.
