@@ -1,6 +1,7 @@
 ---
 organizations:
-  - name: Ghent University ![Ghent University](ghentlogo.png)
+  - name: Ghent University
+    image:  ![Ghent University](ghentlogo.jpg)
     url: https://telefoonboek.ugent.be/nl/people/802003374626
 superuser: true
 authors:
