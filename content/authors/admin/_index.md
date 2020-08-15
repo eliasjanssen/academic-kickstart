@@ -15,8 +15,8 @@ role: PhD Candidate HRM & OB
 # Organizations/Affiliations
 organizations:
 - name: Ghent University
-  url: "https://telefoonboek.ugent.be/nl/people/802003374626
-  - name: Radboud University
+  url: "https://telefoonboek.ugent.be/nl/people/802003374626,
+- name: Radboud University
   url: "https://www.ru.nl/nsm/imr/"
 
 # Short bio (displayed in user profile at end of posts)
