@@ -43,6 +43,6 @@ url_pdf: ""
 image:
   placement: 1
   caption: 'Wiley'
-  focal_point: "Top"
+  focal_point: "Smart"
   preview_only: true
 ---
