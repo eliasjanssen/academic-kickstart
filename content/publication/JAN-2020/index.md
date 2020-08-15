@@ -38,6 +38,9 @@ publication: "*Journal of Advanced Nursing [In Press]*"
 tags: ["Mindfulness", "JD-R", "Nursing"]
 doi: ""
 url_pdf: ""
+header:
+  image: "featured2.jpg"
+  caption: ""
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
