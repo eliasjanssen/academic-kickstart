@@ -44,4 +44,6 @@ user_groups:
   - Visitors
 ---
 I am a Doctoral Researcher at the Department of Marketing, Innovation & Organization of Ghent University, Belgium. My doctoral research revolves around sustainable careers in the educational sector and incorporates topics like employability, proactive career behaviors and contextual influences on career development.
-{{< figure library="true" src="logoghent.png" title="Ghent University" >}}
+<img src="logoghent.png"
+     alt=""
+     style="float: center; margin-right: 10px;" />
