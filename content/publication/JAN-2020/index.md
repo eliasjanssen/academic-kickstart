@@ -33,9 +33,15 @@ of increasing work pressure.
 * **Impact:** Nurses are confronted with increasing work pressure. The present findings indicate that the
 implementation of mindfulness strategies can be beneficial for nurses dealing with work pressure,
 contributing to nursing practice and JD-R theory"
-featured: false
+featured: true
 publication: "*Journal of Advanced Nursing [In Press]*"
 tags: ["Mindfulness", "JD-R", "Nursing"]
 doi: ""
 url_pdf: ""
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Wiley'
+  focal_point: ""
+  preview_only: true
 ---
