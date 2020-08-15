@@ -1,6 +1,6 @@
 ---
 organizations:
-  - name: Ghent University
+  - name: Ghent University <img src="/img/careylogo.png" width="200px" style="display:block; margin-left:auto; margin-right:auto; margin-top:1em; margin-bottom:0.5em;">
     image: ghentlogo.jpg
     url: https://telefoonboek.ugent.be/nl/people/802003374626
 superuser: true
