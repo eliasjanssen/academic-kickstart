@@ -1,76 +1,47 @@
 ---
-# Display name
-title: Elias Janssen
-
-# Username (this should match the folder name)
-authors:
-- admin
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: PhD Scholar HRM & OB
-
-# Organizations/Affiliations
 organizations:
-- name: Ghent University
-  url: "https://telefoonboek.ugent.be/nl/people/802003374626"
-#- name: Radboud University
-#  url: "https://www.ru.nl/nsm/imr/"
-
-# Short bio (displayed in user profile at end of posts)
-bio: PhD Researcher Ghent University. My research currently revolves around sustainable careers and proactive work behaviors.
-
+  - name: Ghent University
+    url: https://telefoonboek.ugent.be/nl/people/802003374626
+superuser: true
+authors:
+  - admin
+title: Elias Janssen
+role: PhD Scholar HRM & OB
+bio: PhD Researcher Ghent University. My research currently revolves around
+  sustainable careers and proactive work behaviors.
 interests:
-- Human Resource Management
-- Careers
-- Proactive Work Behaviors
-- Leadership
-
+  - Human Resource Management
+  - Careers
+  - Proactive Work Behaviors
+  - Leadership
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: "#contact"
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/ESSJanssen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/eliasjanssen/
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=Vey6dfwAAAAJ
+  - icon: orcid
+    icon_pack: ai
+    link: http://orcid.org/0000-0003-0846-5593
 education:
   courses:
-  - course: MSc in Business Administration - Organizational Design & Development
-    institution: Radboud University
-    year: 2019
-  - course: BSc in Business Administration
-    institution: Radboud University
-    year: 2018
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/ESSJanssen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/eliasjanssen/
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=Vey6dfwAAAAJ
-- icon: orcid
-  icon_pack: ai
-  link: http://orcid.org/0000-0003-0846-5593
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: "MSc in Business Administration: Organizational Design & Development"
+      institution: Radboud University
+      year: 2019
+    - course: BSc in Business Administration
+      institution: Radboud University
+      year: 2018
 email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+  - Researchers
+  - Visitors
 ---
 
 Elias Janssen is a Doctoral Researcher at the Department of Marketing, Innovation & Organization of Ghent University, Belgium. His doctoral research revolves around sustainable careers in the educational sector and incorporates topics like employability, proactive career behaviors and contextual influences on career development.
