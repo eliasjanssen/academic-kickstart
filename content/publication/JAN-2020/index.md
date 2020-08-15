@@ -43,7 +43,7 @@ url_pdf: ""
 image:
   placement: 1
   caption: 'Wiley'
-  focal_point: "Center"
+  focal_point: "Smart"
   preview_only: true
 ---
 {{< figure src="featured2.jpg" title="" >}}
