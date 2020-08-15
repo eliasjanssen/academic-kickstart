@@ -6,6 +6,6 @@ google_fonts = "Crimson+Pro:700bold,400,400italic,700"
 
 # Font families
 heading_font = "Crimson Pro"
-body_font = "Crimson Pro"
+body_font = "Poppins"
 nav_font = "Crimson Pro"
 mono_font = "Crimson Pro"
