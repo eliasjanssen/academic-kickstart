@@ -38,9 +38,6 @@ publication: "*Journal of Advanced Nursing [In Press]*"
 tags: ["Mindfulness", "JD-R", "Nursing"]
 doi: ""
 url_pdf: ""
-header:
-  image: "featured2.jpg"
-  caption: ""
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
@@ -49,3 +46,4 @@ image:
   focal_point: "Center"
   preview_only: true
 ---
+{{< figure src="featured2.jpg" title="Journal of Advanced Nursing" >}}
