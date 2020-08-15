@@ -20,10 +20,11 @@ organizations:
 #  url: "https://www.ru.nl/nsm/imr/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research currently revolves around sustainable careers and proactive work behaviors.
+bio: PhD Researcher Ghent University. My research currently revolves around sustainable careers and proactive work behaviors.
 
 interests:
-- Sustainable Careers
+- Human Resource Management
+- Careers
 - Proactive Work Behaviors
 
 education:
