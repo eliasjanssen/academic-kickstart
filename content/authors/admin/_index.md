@@ -26,6 +26,7 @@ interests:
 - Human Resource Management
 - Careers
 - Proactive Work Behaviors
+- Leadership
 
 education:
   courses:
