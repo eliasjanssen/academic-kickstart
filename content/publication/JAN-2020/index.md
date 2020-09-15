@@ -44,7 +44,7 @@ contributing to nursing practice and JD-R theory"
 featured: true
 publication: "*Journal of Advanced Nursing [In Press]*"
 tags: ["Mindfulness", "JD-R", "Nursing"]
-doi: ""
+doi: "10.1111/jan.14563"
 url_pdf: ""
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
