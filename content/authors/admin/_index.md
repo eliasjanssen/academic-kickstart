@@ -12,9 +12,8 @@ bio: PhD Researcher Ghent University. My research currently revolves around
 interests:
   - Human Resource Management
   - Careers
-  - Proactive Work Behaviors
-  - Leadership
-  - Non-linear relationships
+  - Proactive Work/Career Behaviors
+  - Non-linear Relationships 
 social:
   - icon: envelope
     icon_pack: fas
