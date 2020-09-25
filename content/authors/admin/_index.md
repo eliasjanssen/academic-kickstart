@@ -14,6 +14,7 @@ interests:
   - Careers
   - Proactive Work Behaviors
   - Leadership
+  - Non-linear relationships
 social:
   - icon: envelope
     icon_pack: fas
