@@ -13,7 +13,7 @@ interests:
   - Human Resource Management
   - Careers
   - Proactive Work/Career Behaviors
-  - Non-linear Relationships 
+  - Nonlinearity in Predicting Behaviors
 social:
   - icon: envelope
     icon_pack: fas
