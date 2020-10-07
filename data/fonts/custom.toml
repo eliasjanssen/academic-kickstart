@@ -2,7 +2,7 @@
 name = "custom"
 
 # Optional Google font URL
-google_fonts = "Crimson+Pro:700bold,500,400italic,700|Poppins:300"
+google_fonts = ""
 
 # Font families
 heading_font = "Crimson Pro"
