@@ -8,11 +8,11 @@ authors:
 title: Elias Janssen
 role: PhD Scholar HRM & OB
 bio: PhD Researcher Ghent University. My research currently revolves around
-  sustainable careers and proactive work behaviors.
+  sustainable careers and proactive career behaviors.
 interests:
   - Human Resource Management
   - Careers
-  - Proactive Work/Career Behaviors
+  - Job & Career Crafting
   - Nonlinearity in Predicting Behaviors
 social:
   - icon: envelope
