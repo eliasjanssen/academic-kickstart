@@ -1,5 +1,5 @@
 ---
-title: "Unraveling the complex relationship between career success and career crafting: Exploring nonlinearity and the moderating role of learning value of the job."
+title: "Unraveling the complex relationship between career success and career crafting: Exploring nonlinearity and the moderating role of learning value of the job"
 date: 2021-08-28
 publishDate: 2021-08-28
 authors: 
