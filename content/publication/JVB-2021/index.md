@@ -6,7 +6,7 @@ authors:
 - admin
 - Beatrice van der Heijden
 - Jos Akkermans
-- Elias Janssen
+- Mieke Audenaert
 publication_types: ["2"]
 abstract: "While scholars have devoted considerable attention to proactive career behaviors, little is known about the drivers behind these behaviors. In this study, we build on conservation of resources theory to study nonlinearity in the relationship between (objective and subjective) career success and career crafting behaviors (i.e., proactive career reflection and proactive career construction) using a sample of 702 teaching staff. Both low and high levels of subjective career success related to higher levels of proactive career reflection (i.e., U-shaped relationship), whereas only high levels of subjective career success related to higher levels of proactive career construction (i.e., strengthening the quadratic relationship). Moreover, learning value of the job moderated the relationship between subjective career success and both dimensions of career crafting. Our findings indicate that educational institutions should monitor and act on the perceived career success and learning value of their teaching staff to foster their career proactivity."
 featured: true
