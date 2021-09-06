@@ -2,6 +2,8 @@
 organizations:
   - name: Ghent University
     url: https://telefoonboek.ugent.be/nl/people/802003374626
+  - name: Ghent University
+    url: https://telefoonboek.ugent.be/nl/people/802003374626
 superuser: true
 authors:
   - admin
