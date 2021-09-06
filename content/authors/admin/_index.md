@@ -2,8 +2,8 @@
 organizations:
   - name: Ghent University
     url: https://telefoonboek.ugent.be/nl/people/802003374626
-  - name: Ghent University
-    url: https://telefoonboek.ugent.be/nl/people/802003374626
+  - name: Radboud University
+    url: https://www.ru.nl/nsm/imr/
 superuser: true
 authors:
   - admin
