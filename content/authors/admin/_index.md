@@ -30,6 +30,9 @@ social:
   - icon: orcid
     icon_pack: ai
     link: http://orcid.org/0000-0003-0846-5593
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Elias-Janssen
 education:
   courses:
     - course: "MSc in Business Administration: Organizational Design & Development"
