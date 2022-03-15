@@ -1,7 +1,7 @@
 ---
 organizations:
   - name: Ghent University
-    url: https://telefoonboek.ugent.be/nl/people/802003374626
+    url: https://research.ugent.be/web/person/elias-janssen-0/en
   - name: Radboud University
     url: https://www.ru.nl/english/people/janssen-e-s
 superuser: true
