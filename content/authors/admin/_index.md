@@ -49,4 +49,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a Doctoral Researcher at the Nijmegen School of Management of Radboud University, The Netherlands and the Department of Marketing, Innovation & Organization of Ghent University, Belgium. My doctoral research revolves around sustainable careers in the educational sector and incorporates topics like proactive career behaviors, contextual influences on career development and employability.
+I am a Doctoral Researcher at the Nijmegen School of Management of Radboud University Nijmegen and the Department of Marketing, Innovation & Organization of Ghent University. My doctoral research revolves around sustainable careers in the educational sector and incorporates topics like proactive career behaviors, contextual influences on career development and employability.
