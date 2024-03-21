@@ -25,7 +25,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/ESSJanssen
   - icon: linkedin
-    icon_pack: fab
+    icon_pack: ai
     link: https://www.linkedin.com/in/eliasjanssen/
   - icon: google-scholar
     icon_pack: ai
